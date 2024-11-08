@@ -34,7 +34,8 @@ button
 {
     background-color: #d9043d;
     border-radius: 10px;
-    margin: 0.5%;
+    margin-left: 0.25%;
+    margin-right: 0.25%;
     padding: .8%;
     font-weight: bold;
 }
